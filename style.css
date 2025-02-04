@@ -1,0 +1,31 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        margin-top: 150px;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-style: italic;
+        background-image:url('./background.jpeg') ;
+        color: aqua;
+    }
+    input, button {
+        margin: 10px;
+        color:red;
+        border-color:aqua ;
+    }
+    img {
+        width: 150px;
+        height: 150px;
+        margin-top: 20px;
+    }
+#result{
+    color: yellow;
+    font-size: larger;
+    margin-top: 5px;
+}
+#label{
+color: blanchedalmond;
+}
